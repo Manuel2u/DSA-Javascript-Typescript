@@ -59,6 +59,8 @@ Describe your project
 The following tools were used in this project:
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [Javascript](https://www.typescriptlang.org/)
+
 
 ## :white_check_mark: Requirements ##
 
@@ -73,13 +75,6 @@ $ git clone https://github.com/{{manuel2u}}/dsa-js-ts
 # Access
 $ cd dsa-js-ts
 
-# # Install dependencies
-# $ yarn
-
-# # Run the project
-# $ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
@@ -87,7 +82,7 @@ $ cd dsa-js-ts
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{manuel2u}}" target="_blank">{{Manuel_Dev}}</a>
+Made with :heart: by <a href="https://github.com/{{manuel2u}}" target="_blank">Manuel_Dev</a>
 
 &#xa0;
 
